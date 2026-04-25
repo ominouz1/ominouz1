@@ -1,10 +1,28 @@
-**Hi, I’m @ominouz1**
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Joshua Norvor
 
-<!---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Builder+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%8C%B1" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```diff
++ Curious mind with a passion for building things
++ I enjoy solving real-world problems with code
++ Clean, efficient, and intentional development is my style
+
+- Advanced JavaScript
+- Backend Development (Node.js, APIs)
+- Writing clean, scalable code
+
+while(alive) {
+   learn();
+   build();
+   breakThings();
+   fixThingsBetter();
+}
+
+<p align="center"> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 ominouz1/ominouz1 is a ✨ special ✨ person because i am about to delve into the world of coding :) --->
